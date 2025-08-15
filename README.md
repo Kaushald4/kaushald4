@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Kaushal</h1>
+<h1 align="left">Hi 👋, I'm Kaushal</h1>
 <h3 align="left">I am a passionate Full-Stack Engineer who thrives at the intersection of technology and curiosity. My professional journey includes all aspects of web development, from creating user-friendly interfaces to building solid server-side solutions. Outside of coding, I am fascinated by the vastness of the universe and its many mysteries. I am also excited about the potential of Artificial Intelligence to change how we understand and interact with our world.</h5>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kaushald4" alt="kaushald4" /></a> </p>

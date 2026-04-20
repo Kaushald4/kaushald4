@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/k_kaushal_" target="blank"><img src="https://img.shields.io/twitter/follow/k_kaushal_?logo=twitter&style=for-the-badge" alt="k_kaushal_" /></a> </p>
 
-- 🔭 I’m currently working on **Agentic AI Collaborative CodeEditor**
+
 
 - 👯 I’m looking to collaborate on **AI-driven Apps, SaaS, Real-time systems**
 
